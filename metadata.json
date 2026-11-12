@@ -1,0 +1,6 @@
+{
+  "name": "Ziggybanty Fashion & Lifestyle",
+  "description": "Official e-commerce website for Ziggybanty. Premium sneakers, shoes, fashionable wears, luxury bags, and perfumes in Nigeria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
